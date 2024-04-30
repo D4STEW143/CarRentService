@@ -24,6 +24,7 @@
     <ProjectGuid>{746d40a6-8927-4a62-8299-2838601bdde6}</ProjectGuid>
     <RootNamespace>UserLoginService</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>CarRentService</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
